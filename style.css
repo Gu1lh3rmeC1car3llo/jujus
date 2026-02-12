@@ -1,0 +1,26 @@
+body {
+
+background-color: rgb(78, 255, 202);
+text-align: center;
+
+}
+
+.Texto {
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+a:hover {
+
+color: rgb(135, 135, 255);
+background-color: transparent;
+cursor: pointer;
+
+}
+
+img {
+
+border-radius: 15px;
+
+}
